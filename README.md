@@ -13,3 +13,4 @@ Es necesario tener instaladas las dependencias necesarias
 1) Cloudinary
 2) Requests 
 3) Urllib
+Luego con el comando py "archivo a correr" se puede ejecutar.
